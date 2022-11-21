@@ -1,0 +1,30 @@
+.title:hover{
+    cursor:pointer; 
+}
+
+#container2{
+    padding:0 160px;
+}
+.button-back{
+    padding: 10px 0 100px 0;
+}
+
+.subheader{
+    padding: 20px 0 ;
+}
+
+.h1{
+padding: 30px 0 50px 0;
+font-family:'Prata', serif;
+}
+.media{
+    border:none;
+}
+
+body{
+    background: #F1F1F1;
+}
+
+.footer{
+    padding: 50px 0;
+}
